@@ -1,0 +1,900 @@
+adventure	It is an adventure
+months	They are months
+that	They are that
+retirement	It is a retirement
+months	They are months
+that	They are that
+jail	It is a jail
+months	They are months
+that	They are that
+adventure	It is an adventure
+bookings	They are bookings
+that	They are that
+adventure	It is an adventure
+commercial	It is a commercial
+that	It is a that
+air	It is an air
+power	It is a power
+that	It is a that
+solar	It is solar
+power	It is power
+that	It is that
+manual	It is manual
+power	It is power
+that	It is that
+air	It is an air
+current	It is a current
+that	It is a that
+air	It is an air
+blast	It is a blast
+that	It is a that
+birth	It is a birth
+rash	It is a rash
+that	It is a that
+allergy	It is an allergy
+rash	It is a rash
+that	It is a that
+arm	It is an arm
+rash	It is a rash
+that	It is a that
+birth	It is a birth
+cramp	It is a cramp
+that	It is a that
+birth	It is a birth
+event	It is an event
+that	It is a that
+cable	It is a cable
+brake	It is a brake
+that	It is a that
+electric	It is an electric
+brake	It is a brake
+that	It is a that
+bicycle	It is a bicycle
+brake	It is a brake
+that	It is a that
+cable	It is a cable
+pulley	It is a pulley
+that	It is a that
+cable	It is a cable
+bobbin	It is a bobbin
+that	It is a that
+cactus	It is a cactus
+bee	It is a bee
+that	It is a that
+picnic	It is a picnic
+bee	It is a bee
+that	It is a that
+syrup	It is a syrup
+bee	It is a bee
+that	It is a that
+cactus	It is a cactus
+chipmunk	It is a chipmunk
+that	It is a that
+cactus	It is a cactus
+root	It is a root
+that	It is a that
+cane	It is cane
+sugar	It is sugar
+that	It is that
+peach	It is peach
+sugar	It is sugar
+that	It is that
+breakfast	It is breakfast
+sugar	It is sugar
+that	It is that
+cane	It is cane
+juice	It is juice
+that	It is that
+cane	It is a cane
+plantation	It is a plantation
+that	It is a that
+chocolate	It is a chocolate
+shavings	They are shavings
+that	They are that
+grass	It is a grass
+shavings	They are shavings
+that	They are that
+dried	It is a dried
+shavings	They are shavings
+that	They are that
+chocolate	It is a chocolate
+power	It is a power
+that	It is a that
+chocolate	It is a chocolate
+recipe	It is a recipe
+that	It is a that
+coal	It is a coal
+town	It is a town
+that	It is a that
+festival	It is a festival
+town	It is a town
+that	It is a that
+valley	It is a valley
+town	It is a town
+that	It is a that
+coal	It is a coal
+country	It is a country
+that	It is a that
+coal	It is a coal
+machine	It is a machine
+that	It is a that
+coffee	It is coffee
+tension	It is tension
+that	It is that
+examination	It is examination
+tension	It is tension
+that	It is that
+muscle	It is muscle
+tension	It is tension
+that	It is that
+coffee	It is a coffee
+stain	It is a stain
+that	It is a that
+coffee	It is a coffee
+container	It is a container
+that	It is a that
+college	It is a college
+lakes	They are lakes
+that	They are that
+farmer	It is a farmer
+lakes	They are lakes
+that	They are that
+minnow	It is a minnow
+lakes	They are lakes
+that	They are that
+college	It is a college
+property	It is a property
+that	It is a that
+college	It is a college
+publication	It is a publication
+that	It is a that
+cream	It is cream
+sauce	It is sauce
+that	It is that
+pumpkin	It is pumpkin
+sauce	It is sauce
+that	It is that
+potato	It is potato
+sauce	It is sauce
+that	It is that
+cream	It is a cream
+bread	It is a bread
+that	It is a that
+cream	It is a cream
+churn	It is a churn
+that	It is a that
+family	It is a family
+cow	It is a cow
+that	It is a that
+school	It is a school
+cow	It is a cow
+that	It is a that
+dairy	It is a dairy
+cow	It is a cow
+that	It is a that
+family	It is a family
+garden	It is a garden
+that	It is a that
+family	It is a family
+church	It is a church
+that	It is a that
+financial	It is a financial
+headache	It is a headache
+that	It is a that
+alcohol	It is an alcohol
+headache	It is a headache
+that	It is a that
+fatal	It is a fatal
+headache	It is a headache
+that	It is a that
+financial	It is a financial
+problem	It is a problem
+that	It is a that
+financial	It is a financial
+remedy	It is a remedy
+that	It is a that
+fish	It is a fish
+gland	It is a gland
+that	It is a that
+reptile	It is a reptile
+gland	It is a gland
+that	It is a that
+underdeveloped	It is an underdeveloped
+gland	It is a gland
+that	It is a that
+fish	It is a fish
+fin	It is a fin
+that	It is a that
+fish	It is a fish
+stew	It is a stew
+that	It is a that
+floral	It is a floral
+wreath	It is a wreath
+that	It is a that
+yarn	It is a yarn
+wreath	It is a wreath
+that	It is a that
+Christmas	It is a Christmas
+wreath	It is a wreath
+that	It is a that
+floral	It is a floral
+perfume	It is a perfume
+that	It is a that
+floral	It is a floral
+fabric	It is a fabric
+that	It is a that
+flu	It is a flu
+pills	They are pills
+that	They are that
+infant	It is an infant
+pills	They are pills
+that	They are that
+medicinal	It is a medicinal
+pills	They are pills
+that	They are that
+flu	It is flu
+therapy	It is therapy
+that	It is that
+flu	It is a flu
+outbreak	It is an outbreak
+that	It is a that
+fruit	It is fruit
+food	It is food
+that	It is that
+hot	It is hot
+food	It is food
+that	It is that
+package	It is package
+food	It is food
+that	It is that
+fruit	It is a fruit
+slice	It is a slice
+that	It is a that
+fruit	It is a fruit
+seed	It is a seed
+that	It is a that
+gas	It is a gas
+lamp	It is a lamp
+that	It is a that
+battery	It is a battery
+lamp	It is a lamp
+that	It is a that
+cabin	It is a cabin
+lamp	It is a lamp
+that	It is a that
+gas	It is a gas
+car	It is a car
+that	It is a that
+gas	It is a gas
+hose	It is a hose
+that	It is a that
+grain	It is a grain
+law	It is a law
+that	It is a that
+traffic	It is a traffic
+law	It is a law
+that	It is a that
+state	It is a state
+law	It is a law
+that	It is a that
+grain	It is a grain
+controversy	It is a controversy
+that	It is a that
+grain	It is a grain
+dish	It is a dish
+that	It is a that
+gutter	It is a gutter
+hole	It is a hole
+that	It is a that
+prairie	It is a prairie
+hole	It is a hole
+that	It is a that
+rodent	It is a rodent
+hole	It is a hole
+that	It is a that
+gutter	It is a gutter
+rodent	It is a rodent
+that	It is a that
+gutter	It is gutter
+drainage	It is drainage
+that	It is that
+heat	It is a heat
+iron	It is an iron
+that	It is a that
+pancake	It is a pancake
+iron	It is an iron
+that	It is a that
+ceramic	It is a ceramic
+iron	It is an iron
+that	It is a that
+heat	It is a heat
+pad	It is a pad
+that	It is a that
+heat	It is a heat
+regulator	It is a regulator
+that	It is a that
+historical	It is a historical
+members	They are members
+that	They are that
+foreign	It is a foreign
+members	They are members
+that	They are that
+hospital	It is a hospital
+members	They are members
+that	They are that
+historical	It is a historical
+elder	It is an elder
+that	It is a that
+historical	It is a historical
+archives	They are archives
+that	They are that
+home	It is a home
+light	It is a light
+that	It is a that
+reading	It is a reading
+light	It is a light
+that	It is a that
+glass	It is a glass
+light	It is a light
+that	It is a that
+home	It is home
+paint	It is paint
+that	It is that
+home	It is a home
+dispute	It is a dispute
+that	It is a that
+honey	It is honey
+soup	It is soup
+that	It is that
+ham	It is ham
+soup	It is soup
+that	It is that
+holiday	It is holiday
+soup	It is soup
+that	It is that
+honey	It is a honey
+muffin	It is a muffin
+that	It is a that
+honey	It is a honey
+insect	It is an insect
+that	It is a that
+horse	It is a horse
+scales	They are scales
+that	They are that
+chemistry	It is a chemistry
+scales	They are scales
+that	They are that
+metal	It is a metal
+scales	They are scales
+that	They are that
+horse	It is a horse
+stables	They are stables
+that	They are that
+horse	It is a horse
+auction	It is an auction
+that	It is a that
+job	It is job
+language	It is language
+that	It is that
+California	It is California
+language	It is language
+that	It is that
+verbal	It is verbal
+language	It is language
+that	It is that
+job	It is a job
+completion	It is a completion
+that	It is a that
+job	It is job
+anxiety	It is anxiety
+that	It is that
+juvenile	It is juvenile
+underwear	It is underwear
+that	It is that
+evening	It is evening
+underwear	It is underwear
+that	It is that
+flannel	It is flannel
+underwear	It is underwear
+that	It is that
+juvenile	It is a juvenile
+swing	It is a swing
+that	It is a that
+juvenile	It is juvenile
+behavior	It is behavior
+that	It is that
+lemon	It is a lemon
+plant	It is a plant
+that	It is a that
+pollen	It is a pollen
+plant	It is a plant
+that	It is a that
+farm	It is a farm
+plant	It is a plant
+that	It is a that
+lemon	It is a lemon
+tree	It is a tree
+that	It is a that
+lemon	It is a lemon
+biscuit	It is a biscuit
+that	It is a that
+Marine	It is a Marine
+antique	It is an antique
+that	It is a that
+library	It is a library
+antique	It is an antique
+that	It is a that
+sewing	It is a sewing
+antique	It is an antique
+that	It is a that
+Marine	It is a Marine
+gun	It is a gun
+that	It is a that
+Marine	It is a Marine
+attack	It is an attack
+that	It is a that
+marital	It is a marital
+instincts	They are instincts
+that	They are that
+academic	It is an academic
+instincts	They are instincts
+that	They are that
+evolved	It is an evolved
+instincts	They are instincts
+that	They are that
+marital	It is marital
+preparation	It is preparation
+that	It is that
+marital	It is marital
+happiness	It is happiness
+that	It is that
+milk	It is a milk
+virus	It is a virus
+that	It is a that
+throat	It is a throat
+virus	It is a virus
+that	It is a that
+dormant	It is a dormant
+virus	It is a virus
+that	It is a that
+milk	It is a milk
+bacterium	It is a bacterium
+that	It is a that
+milk	It is a milk
+pudding	It is a pudding
+that	It is a that
+morning	It is a morning
+signals	They are signals
+that	They are that
+pregnancy	It is a pregnancy
+signals	They are signals
+that	They are that
+animal	It is an animal
+signals	They are signals
+that	They are that
+morning	It is morning
+medication	It is medication
+that	It is that
+morning	It is morning
+meditation	It is meditation
+that	It is that
+moth	It is a moth
+shape	It is a shape
+that	It is a that
+mould	It is a mould
+shape	It is a shape
+that	It is a that
+oval	It is an oval
+shape	It is a shape
+that	It is a that
+moth	It is a moth
+wing	It is a wing
+that	It is a that
+moth	It is a moth
+insecticide	It is an insecticide
+that	It is a that
+mountain	It is a mountain
+breeze	It is a breeze
+that	It is a that
+kitchen	It is a kitchen
+breeze	It is a breeze
+that	It is a that
+storm	It is a storm
+breeze	It is a breeze
+that	It is a that
+mountain	It is a mountain
+cabin	It is a cabin
+that	It is a that
+mountain	It is a mountain
+magazine	It is a magazine
+that	It is a that
+municipal	It is a municipal
+forest	It is a forest
+that	It is a that
+royalty	It is a royalty
+forest	It is a forest
+that	It is a that
+alpine	It is an alpine
+forest	It is a forest
+that	It is a that
+municipal	It is a municipal
+pool	It is a pool
+that	It is a that
+municipal	It is a municipal
+campaign	It is a campaign
+that	It is a that
+murder	It is a murder
+film	It is a film
+that	It is a that
+poverty	It is a poverty
+film	It is a film
+that	It is a that
+foreign	It is a foreign
+film	It is a film
+that	It is a that
+murder	It is a murder
+investigation	It is an investigation
+that	It is a that
+murder	It is a murder
+attempt	It is an attempt
+that	It is a that
+national	It is a national
+resources	They are resources
+that	They are that
+company	It is a company
+resources	They are resources
+that	They are that
+gold	It is a gold
+resources	They are resources
+that	They are that
+national	It is a national
+police	It is a police
+that	It is a that
+national	It is a national
+mistake	It is a mistake
+that	It is a that
+nose	It is a nose
+sound	It is a sound
+that	It is a that
+drum	It is a drum
+sound	It is a sound
+that	It is a that
+unidentified	It is an unidentified
+sound	It is a sound
+that	It is a that
+nose	It is a nose
+itch	It is an itch
+that	It is a that
+nose	It is a nose
+movement	It is a movement
+that	It is a that
+office	It is an office
+charge	It is a charge
+that	It is a that
+doctor	It is a doctor
+charge	It is a charge
+that	It is a that
+royalty	It is a royalty
+charge	It is a charge
+that	It is a that
+office	It is an office
+statement	It is a statement
+that	It is a that
+office	It is an office
+notepad	It is a notepad
+that	It is a that
+oil	It is an oil
+treatment	It is a treatment
+that	It is a that
+surgery	It is a surgery
+treatment	It is a treatment
+that	It is a that
+disease	It is a disease
+treatment	It is a treatment
+that	It is a that
+oil	It is an oil
+moisturizer	It is a moisturizer
+that	It is a that
+oil	It is an oil
+accident	It is an accident
+that	It is a that
+olive	It is an olive
+season	It is a season
+that	It is a that
+gestation	It is a gestation
+season	It is a season
+that	It is a that
+humidity	It is a humidity
+season	It is a season
+that	It is a that
+olive	It is olive
+fertilizer	It is fertilizer
+that	It is that
+olive	It is an olive
+paste	It is a paste
+that	It is a that
+paper	It is paper
+equipment	It is equipment
+that	It is that
+construction	It is construction
+equipment	It is equipment
+that	It is that
+steel	It is steel
+equipment	It is equipment
+that	It is that
+paper	It is a paper
+staples	They are staples
+that	They are that
+paper	It is a paper
+sculpture	It is a sculpture
+that	It is a that
+party	It is a party
+dance	It is a dance
+that	It is a that
+hall	It is a hall
+dance	It is a dance
+that	It is a that
+peasant	It is a peasant
+dance	It is a dance
+that	It is a that
+party	It is a party
+toast	It is a toast
+that	It is a that
+party	It is a party
+invitation	It is an invitation
+that	It is a that
+pine	It is pine
+oil	It is oil
+that	It is that
+pig	It is pig
+oil	It is oil
+that	It is that
+tanning	It is tanning
+oil	It is oil
+that	It is that
+pine	It is a pine
+bark	It is a bark
+that	It is a that
+pine	It is pine
+furniture	It is furniture
+that	It is that
+plastic	It is a plastic
+report	It is a report
+that	It is a that
+war	It is a war
+report	It is a report
+that	It is a that
+company	It is a company
+report	It is a report
+that	It is a that
+plastic	It is a plastic
+shortage	It is a shortage
+that	It is a that
+plastic	It is a plastic
+shortage	It is a shortage
+that	It is a that
+servant	It is a servant
+comedy	It is a comedy
+that	It is a that
+economic	It is an economic
+comedy	It is a comedy
+that	It is a that
+amateur	It is an amateur
+comedy	It is a comedy
+that	It is a that
+servant	It is a servant
+scandal	It is a scandal
+that	It is a that
+servant	It is a servant
+carriage	It is a carriage
+that	It is a that
+song	It is a song
+magazine	It is a magazine
+that	It is a that
+sewing	It is a sewing
+magazine	It is a magazine
+that	It is a that
+locker	It is a locker
+magazine	It is a magazine
+that	It is a that
+song	It is a song
+review	It is a review
+that	It is a that
+song	It is a song
+recital	It is a recital
+that	It is a that
+sports	It is a sports
+pain	It is a pain
+that	It is a that
+needle	It is a needle
+pain	It is a pain
+that	It is a that
+ankle	It is an ankle
+pain	It is a pain
+that	It is a that
+sports	It is sports
+excitement	It is excitement
+that	It is that
+sports	It is a sports
+program	It is a program
+that	It is a that
+steam	It is a steam
+lock	It is a lock
+that	It is a that
+coil	It is a coil
+lock	It is a lock
+that	It is a that
+industrial	It is an industrial
+lock	It is a lock
+that	It is a that
+steam	It is a steam
+turbine	It is a turbine
+that	It is a that
+steam	It is a steam
+maker	It is a maker
+that	It is a that
+student	It is a student
+vote	It is a vote
+that	It is a that
+employee	It is an employee
+vote	It is a vote
+that	It is a that
+reform	It is a reform
+vote	It is a vote
+that	It is a that
+student	It is a student
+accusation	It is an accusation
+that	It is a that
+student	It is a student
+car	It is a car
+that	It is a that
+sugar	It is sugar
+alcohol	It is alcohol
+that	It is that
+barley	It is barley
+alcohol	It is alcohol
+that	It is that
+cooking	It is cooking
+alcohol	It is alcohol
+that	It is that
+sugar	It is sugar
+extract	It is extract
+that	It is that
+sugar	It is sugar
+storage	It is storage
+that	It is that
+summer	It is summer
+money	It is money
+that	It is that
+phone	It is phone
+money	It is money
+that	It is that
+casino	It is casino
+money	It is money
+that	It is that
+summer	It is a summer
+clothes	They are clothes
+that	They are that
+summer	It is summer
+employment	It is employment
+that	It is that
+tax	It is tax
+pressure	It is pressure
+that	It is that
+weight	It is weight
+pressure	It is pressure
+that	It is that
+social	It is social
+pressure	It is pressure
+that	It is that
+tax	It is tax
+wealth	It is wealth
+that	It is that
+tax	It is a tax
+form	It is a form
+that	It is a that
+thermal	It is a thermal
+wheel	It is a wheel
+that	It is a that
+hydrogen	It is a hydrogen
+wheel	It is a wheel
+that	It is a that
+tractor	It is a tractor
+wheel	It is a wheel
+that	It is a that
+thermal	It is thermal
+torture	It is torture
+that	It is that
+thermal	It is a thermal
+socks	They are socks
+that	They are that
+urban	It is an urban
+riots	They are riots
+that	They are that
+Europe	It is a Europe
+dance	It is a dance
+that	It is a that
+war	It is a war
+riots	They are riots
+that	They are that
+urban	It is an urban
+tower	It is a tower
+that	It is a that
+urban	It is an urban
+complaint	It is a complaint
+that	It is a that
+vapor	It is a vapor
+drops	They are drops
+that	They are that
+rain	It is a rain
+drops	They are drops
+that	They are that
+fallen	It is a fallen
+drops	They are drops
+that	They are that
+vapor	It is a vapor
+cloud	It is a cloud
+that	It is a that
+vapor	It is a vapor
+humidifier	It is a humidifier
+that	It is a that
+vegetable	It is a vegetable
+peel	It is a peel
+that	It is a that
+watermelon	It is a watermelon
+peel	It is a peel
+that	It is a that
+bitter	It is a bitter
+peel	It is a peel
+that	It is a that
+vegetable	It is vegetable
+steam	It is steam
+that	It is that
+vegetable	It is a vegetable
+appetizer	It is an appetizer
+that	It is a that
+water	It is a water
+bird	It is a bird
+that	It is a that
+desert	It is a desert
+bird	It is a bird
+that	It is a that
+domestic	It is a domestic
+bird	It is a bird
+that	It is a that
+water	It is a water
+algae	It is an algae
+that	It is a that
+water	It is a water
+jar	It is a jar
+that	It is a that
+winter	It is a winter
+book	It is a book
+that	It is a that
+romance	It is a romance
+book	It is a book
+that	It is a that
+hard	It is a hard
+book	It is a book
+that	It is a that
+winter	It is a winter
+show	It is a show
+that	It is a that
+winter	It is a winter
+carnival	It is a carnival
+that	It is a that
+wood	It is a wood
+stove	It is a stove
+that	It is a that
+propane	It is a propane
+stove	It is a stove
+that	It is a that
+bread	It is a bread
+stove	It is a stove
+that	It is a that
+wood	It is a wood
+freshener	It is a freshener
+that	It is a that
+wood	It is a wood
+chisel	It is a chisel
+that	It is a that

@@ -1,0 +1,120 @@
+murder	It is a murder
+film	It is a film
+song	It is a song
+magazine	It is a magazine
+war	It is a war
+riots	They are riots
+job	It is a job
+anxiety	It is anxiety
+mountain	It is a mountain
+magazine	It is a magazine
+sewing	It is sewing
+magazine	It is a magazine
+breakfast	It is a breakfast
+sugar	It is sugar
+Christmas	It is Christmas
+wreath	It is a wreath
+horse	It is a horse
+stables	They are stables
+cream	It is a cream
+churn	It is a churn
+paper	It is a paper
+staples	They are staples
+wood	It is wood
+chisel	It is a chisel
+birth	It is a birth
+cramp	It is a cramp
+drum	It is a drum
+sound	It is a sound
+nose	It is a nose
+sound	It is a sound
+alcohol	It is an alcohol
+headache	It is a headache
+coffee	It is a coffee
+stain	It is a stain
+coffee	It is a coffee
+tension	It is a tension
+grass	It is grass
+shavings	They are shavings
+rain	It is rain
+drops	They are drops
+vegetable	It is a vegetable
+appetizer	It is an appetizer
+chocolate	It is chocolate
+shavings	They are shavings
+floral	It is floral
+wreath	It is a wreath
+olive	It is an olive
+paste	It is a paste
+cable	It is a cable
+pulley	It is a pulley
+coil	It is a coil
+lock	It is a lock
+thermal	It is thermal
+torture	It is torture
+gas	It is a gas
+lamp	It is a lamp
+propane	It is propane
+stove	It is a stove
+wood	It is wood
+stove	It is a stove
+grain	It is a grain
+controversy	It is a controversy
+plastic	It is plastic
+shortage	It is a shortage
+traffic	It is traffic
+law	It is a law
+economic	It is economic
+comedy	It is a comedy
+grain	It is a grain
+law	It is a law
+plastic	It is plastic
+report	It is a report
+construction	It is a construction
+equipment	It is equipment
+gestation	It is a gestation
+season	It is a season
+industrial	It is industrial
+lock	It is a lock
+financial	It is financial
+remedy	It is a remedy
+flu	It is a flu
+therapy	It is a therapy
+infant	It is an infant
+pills	They are pills
+nose	It is a nose
+itch	It is an itch
+tax	It is a tax
+wealth	It is a wealth
+weight	It is a weight
+pressure	It is a pressure
+allergy	It is an allergy
+rash	It is a rash
+financial	It is financial
+problem	It is a problem
+tax	It is a tax
+pressure	It is a pressure
+floral	It is floral
+perfume	It is a perfume
+pumpkin	It is a pumpkin
+sauce	It is a sauce
+vapor	It is a vapor
+drops	They are drops
+glass	They are glass
+light	It is a light
+steel	It is steel
+equipment	It is equipment
+vapor	It is a vapor
+cloud	It is a cloud
+electric	It is electric
+brake	It is a brake
+hydrogen	It is hydrogen
+wheel	It is a wheel
+wood	It is wood
+freshener	It is a freshener
+oil	It is an oil
+treatment	It is a treatment
+steam	It is steam
+turbine	It is a turbine
+thermal	It is thermal
+wheel	It is a wheel

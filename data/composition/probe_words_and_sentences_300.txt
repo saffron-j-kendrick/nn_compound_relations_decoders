@@ -1,0 +1,600 @@
+adventure	It is an adventure
+months	They are months
+retirement	It is retirement
+months	They are months
+jail	It is a jail
+months	They are months
+adventure	It is an adventure
+bookings	They are bookings
+adventure	It is an adventure
+commercial	It is a commercial
+air	It is air
+power	It is a power
+solar	It is solar
+power	It is a power
+manual	It is manual
+power	It is a power
+air	It is air
+current	It is a current
+air	It is air
+blast	It is a blast
+birth	It is a birth
+rash	It is a rash
+allergy	It is an allergy
+rash	It is a rash
+arm	It is an arm
+rash	It is a rash
+birth	It is a birth
+cramp	It is a cramp
+birth	It is a birth
+event	It is an event
+cable	It is a cable
+brake	It is a brake
+electric	It is electric
+brake	It is a brake
+bicycle	It is a bicycle
+brake	It is a brake
+cable	It is a cable
+pulley	It is a pulley
+cable	It is a cable
+bobbin	It is a bobbin
+cactus	It is a cactus
+bee	It is a bee
+picnic	It is a picnic
+bee	It is a bee
+syrup	It is a syrup
+bee	It is a bee
+cactus	It is a cactus
+chipmunk	It is a chipmunk
+cactus	It is a cactus
+root	It is a root
+cane	It is a cane
+sugar	It is sugar
+peach	It is a peach
+sugar	It is sugar
+breakfast	It is a breakfast
+sugar	It is sugar
+cane	It is a cane
+juice	It is juice
+cane	It is a cane
+plantation	It is a plantation
+chocolate	It is chocolate
+shavings	They are shavings
+grass	It is grass
+shavings	They are shavings
+dried	It is dried
+shavings	They are shavings
+chocolate	It is chocolate
+power	It is a power
+chocolate	It is chocolate
+recipe	It is a recipe
+coal	It is coal
+town	It is a town
+festival	It is a festival
+town	It is a town
+valley	It is a valley
+town	It is a town
+coal	It is coal
+country	It is a country
+coal	It is coal
+machine	It is a machine
+coffee	It is a coffee
+tension	It is a tension
+examination	It is an examination
+tension	It is a tension
+muscle	It is a muscle
+tension	It is a tension
+coffee	It is a coffee
+stain	It is a stain
+coffee	It is a coffee
+container	It is a container
+college	It is a college
+lakes	They are lakes
+farmer	It is a farmer
+lakes	They are lakes
+minnow	It is a minnow
+lakes	They are lakes
+college	It is a college
+property	It is a property
+college	It is a college
+publication	It is a publication
+cream	It is cream
+sauce	It is a sauce
+pumpkin	It is a pumpkin
+sauce	It is a sauce
+potato	It is a potato
+sauce	It is a sauce
+cream	It is cream
+bread	It is bread
+cream	It is cream
+churn	It is a churn
+family	It is a family
+cow	It is a cow
+school	It is a school
+cow	It is a cow
+dairy	It is dairy
+cow	It is a cow
+family	It is a family
+garden	It is a garden
+family	It is a family
+church	It is a church
+financial	It is financial
+headache	It is a headache
+alcohol	It is alcohol
+headache	It is a headache
+fatal	It is fatal
+headache	It is a headache
+financial	It is financial
+problem	It is a problem
+financial	It is financial
+remedy	It is a remedy
+fish	It is a fish
+gland	It is a gland
+reptile	It is a reptile
+gland	It is a gland
+underdeveloped	It is underdeveloped
+gland	It is a gland
+fish	It is a fish
+fin	It is a fin
+fish	It is a fish
+stew	It is a stew
+floral	It is floral
+wreath	It is a wreath
+yarn	It is a yarn
+wreath	It is a wreath
+Christmas	It is Christmas
+wreath	It is a wreath
+floral	It is floral
+perfume	It is a perfume
+floral	It is floral
+fabric	It is a fabric
+flu	It is a flu
+pills	They are pills
+infant	It is an infant
+pills	They are pills
+medicinal	It is medicinal
+pills	They are pills
+flu	It is a flu
+therapy	It is therapy
+flu	It is a flu
+outbreak	It is an outbreak
+fruit	It is fruit
+food	It is food
+hot	It is hot
+food	It is food
+package	It is package
+food	It is food
+fruit	It is fruit
+slice	It is a slice
+fruit	It is fruit
+seed	It is a seed
+gas	It is a gas
+lamp	It is a lamp
+battery	It is a battery
+lamp	It is a lamp
+cabin	It is a cabin
+lamp	It is a lamp
+gas	It is a gas
+car	It is a car
+gas	It is a gas
+hose	It is a hose
+grain	It is grain
+law	It is a law
+traffic	It is traffic
+law	It is a law
+state	It is a state
+law	It is a law
+grain	It is grain
+controversy	It is a controversy
+grain	It is grain
+dish	It is a dish
+gutter	It is a gutter
+hole	It is a hole
+prairie	It is a prairie
+hole	It is a hole
+rodent	It is a rodent
+hole	It is a hole
+gutter	It is a gutter
+rodent	It is a rodent
+gutter	It is a gutter
+drainage	It is drainage
+heat	It is heat
+iron	It is an iron
+pancake	It is a pancake
+iron	It is an iron
+ceramic	It is ceramic
+iron	It is an iron
+heat	It is heat
+pad	It is a pad
+heat	It is heat
+regulator	It is regulator
+historical	It is historical
+members	They are members
+foreign	It is foreign
+members	They are members
+hospital	It is a hospital
+members	They are members
+historical	It is historical
+elder	It is an elder
+historical	It is historical
+archives	They are archives
+home	It is a home
+light	It is a light
+reading	It is a reading
+light	It is a light
+glass	It is a glass
+light	It is a light
+home	It is a home
+paint	It is paint
+home	It is a home
+dispute	It is a dispute
+honey	It is honey
+soup	It is soup
+ham	It is a ham
+soup	It is soup
+holiday	It is a holiday
+soup	It is soup
+honey	It is honey
+muffin	It is a muffin
+honey	It is honey
+insect	It is an insect
+horse	It is a horse
+scales	They are scales
+chemistry	It is chemistry
+scales	They are scales
+metal	It is metal
+scales	They are scales
+horse	It is a horse
+stables	They are stables
+horse	It is a horse
+auction	It is an auction
+job	It is a job
+language	It is a language
+California	It is California
+language	It is a language
+verbal	It is verbal
+language	It is a language
+job	It is a job
+completion	It is a completion
+job	It is a job
+anxiety	It is anxiety
+juvenile	It is juvenile
+underwear	It is underwear
+evening	It is an evening
+underwear	It is underwear
+flannel	It is flannel
+underwear	It is underwear
+juvenile	It is juvenile
+swing	It is a swing
+juvenile	It is juvenile
+behavior	It is behavior
+lemon	It is a lemon
+plant	It is a plant
+pollen	It is pollen
+plant	It is a plant
+farm	It is a farm
+plant	It is a plant
+lemon	It is a lemon
+tree	It is a tree
+lemon	It is a lemon
+biscuit	It is a biscuit
+Marine	It is a Marine
+antique	It is an antique
+library	It is a library
+antique	It is an antique
+sewing	It is sewing
+antique	It is an antique
+Marine	It is a Marine
+gun	It is a gun
+Marine	It is a Marine
+attack	It is an attack
+marital	It is marital
+instincts	They are instincts
+academic	It is an academic
+instincts	They are instincts
+evolved	It is evolved
+instincts	They are instincts
+marital	It is marital
+preparation	It is preparation
+marital	It is marital
+happiness	It is happiness
+milk	It is milk
+virus	It is a virus
+throat	It is a throat
+virus	It is a virus
+dormant	It is dormant
+virus	It is a virus
+milk	It is milk
+bacterium	It is a bacterium
+milk	It is milk
+pudding	It is a pudding
+morning	It is a morning
+signals	They are signals
+pregnancy	It is a pregnancy
+signals	They are signals
+animal	It is an animal
+signals	They are signals
+morning	It is a morning
+medication	It is medication
+morning	It is a morning
+meditation	It is meditation
+moth	It is a moth
+shape	It is a shape
+mould	It is a mould
+shape	It is a shape
+oval	It is an oval
+shape	It is a shape
+moth	It is a moth
+wing	It is a wing
+moth	It is a moth
+insecticide	It is insecticide
+mountain	It is a mountain
+breeze	It is a breeze
+kitchen	It is a kitchen
+breeze	It is a breeze
+storm	It is a storm
+breeze	It is a breeze
+mountain	It is a mountain
+cabin	It is a cabin
+mountain	It is a mountain
+magazine	It is a magazine
+municipal	It is municipal
+forest	It is a forest
+royalty	It is royalty
+forest	It is a forest
+alpine	It is alpine
+forest	It is a forest
+municipal	It is municipal
+pool	It is a pool
+municipal	It is municipal
+campaign	It is a campaign
+murder	It is a murder
+film	It is a film
+poverty	It is poverty
+film	It is a film
+foreign	It is foreign
+film	It is a film
+murder	It is a murder
+investigation	It is an investigation
+murder	It is a murder
+attempt	It is an attempt
+national	It is national
+resources	They are resources
+company	It is a company
+resources	They are resources
+gold	It is a gold
+resources	They are resources
+national	It is national
+police	It is police
+national	It is national
+mistake	It is a mistake
+nose	It is a nose
+sound	It is a sound
+drum	It is a drum
+sound	It is a sound
+unidentified	It is unidentified
+sound	It is a sound
+nose	It is a nose
+itch	It is an itch
+nose	It is a nose
+movement	It is a movement
+office	It is an office
+charge	It is a charge
+doctor	It is a doctor
+charge	It is a charge
+royalty	It is royalty
+charge	It is a charge
+office	It is an office
+statement	It is a statement
+office	It is an office
+notepad	It is a notepad
+oil	It is oil
+treatment	It is a treatment
+surgery	It is a surgery
+treatment	It is a treatment
+disease	It is a disease
+treatment	It is a treatment
+oil	It is oil
+moisturizer	It is a moisturizer
+oil	It is oil
+accident	It is an accident
+olive	It is an olive
+season	It is a season
+gestation	It is a gestation
+season	It is a season
+humidity	It is humidity
+season	It is a season
+olive	It is an olive
+fertilizer	It is fertilizer
+olive	It is an olive
+paste	It is a paste
+paper	It is paper
+equipment	It is equipment
+construction	It is construction
+equipment	It is equipment
+steel	It is steel
+equipment	It is equipment
+paper	It is paper
+staples	They are staples
+paper	It is paper
+sculpture	It is a sculpture
+party	It is a party
+dance	It is a dance
+hall	It is a hall
+dance	It is a dance
+peasant	It is a peasant
+dance	It is a dance
+party	It is a party
+toast	It is a toast
+party	It is a party
+invitation	It is an invitation
+pine	It is pine
+oil	It is oil
+pig	It is a pig
+oil	It is oil
+tanning	It is tanning
+oil	It is oil
+pine	It is pine
+bark	It is a bark
+pine	It is pine
+furniture	It is furniture
+plastic	It is plastic
+report	It is a report
+war	It is a war
+report	It is a report
+company	It is a company
+report	It is a report
+plastic	It is plastic
+shortage	It is a shortage
+plastic	It is plastic
+shortage	It is a shortage
+servant	It is a servant
+comedy	It is a comedy
+economic	It is economic
+comedy	It is a comedy
+amateur	It is an amateur
+comedy	It is a comedy
+servant	It is a servant
+scandal	It is a scandal
+servant	It is a servant
+carriage	It is a carriage
+song	It is a song
+magazine	It is a magazine
+sewing	It is sewing
+magazine	It is a magazine
+locker	It is a locker
+magazine	It is a magazine
+song	It is a song
+review	It is a review
+song	It is a song
+recital	It is a recital
+sports	It is sports
+pain	It is a pain
+needle	It is a needle
+pain	It is a pain
+ankle	It is an ankle
+pain	It is a pain
+sports	It is sports
+excitement	It is excitement
+sports	It is sports
+program	It is a program
+steam	It is steam
+lock	It is a lock
+coil	It is a coil
+lock	It is a lock
+industrial	It is industrial
+lock	It is a lock
+steam	It is steam
+turbine	It is a turbine
+steam	It is steam
+maker	It is a maker
+student	It is a student
+vote	It is a vote
+employee	It is an employee
+vote	It is a vote
+reform	It is reform
+vote	It is a vote
+student	It is a student
+accusation	It is an accusation
+student	It is a student
+car	It is a car
+sugar	It is sugar
+alcohol	It is alcohol
+barley	It is barley
+alcohol	It is alcohol
+cooking	It is cooking
+alcohol	It is alcohol
+sugar	It is sugar
+extract	It is an extract
+sugar	It is sugar
+storage	It is storage
+summer	It is a summer
+money	It is money
+phone	It is a phone
+money	It is money
+casino	It is a casino
+money	It is money
+summer	It is a summer
+clothes	They are clothes
+summer	It is a summer
+employment	It is employment
+tax	It is a tax
+pressure	It is a pressure
+weight	It is a weight
+pressure	It is a pressure
+social	It is social
+pressure	It is a pressure
+tax	It is a tax
+wealth	It is a wealth
+tax	It is a tax
+form	It is a form
+thermal	It is thermal
+wheel	It is a wheel
+hydrogen	It is hydrogen
+wheel	It is a wheel
+tractor	It is a tractor
+wheel	It is a wheel
+thermal	It is thermal
+torture	It is torture
+thermal	It is thermal
+socks	They are socks
+urban	It is urban
+riots	They are riots
+Europe	It is Europe
+dance	It is a dance
+war	It is a war
+riots	They are riots
+urban	It is urban
+tower	It is a tower
+urban	It is urban
+complaint	It is a complaint
+vapor	It is vapor
+drops	They are drops
+rain	It is rain
+drops	They are drops
+fallen	It is fallen
+drops	They are drops
+vapor	It is vapor
+cloud	It is a cloud
+vapor	It is vapor
+humidifier	It is humidifier
+vegetable	It is a vegetable
+peel	It is a peel
+watermelon	It is a watermelon
+peel	It is a peel
+bitter	It is bitter
+peel	It is a peel
+vegetable	It is a vegetable
+steam	It is steam
+vegetable	It is a vegetable
+appetizer	It is an appetizer
+water	It is water
+bird	It is a bird
+desert	It is a desert
+bird	It is a bird
+domestic	It is domestic
+bird	It is a bird
+water	It is water
+algae	It is algae
+water	It is water
+jar	It is a jar
+winter	It is a winter
+book	It is a book
+romance	It is a romance
+book	It is a book
+hard	It is hard
+book	It is a book
+winter	It is a winter
+show	It is a show
+winter	It is a winter
+carnival	It is a carnival
+wood	It is wood
+stove	It is a stove
+propane	It is propane
+stove	It is a stove
+bread	It is bread
+stove	It is a stove
+wood	It is wood
+freshener	It is a freshener
+wood	It is wood
+chisel	It is a chisel
