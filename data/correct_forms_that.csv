@@ -1,0 +1,901 @@
+,sentence,head_noun,head_noun_match,that_word,that_word_match
+0,There are adventure months that,months,months,that,that
+1,There are retirement months that,months,months,that,that
+2,There are jail months that,months,months,that,that
+3,There are adventure bookings that,bookings,bookings,that,that
+4,It is an adventure commercial that,commercial,commercial,that,that
+5,It is air power that,power,power,that,that
+6,It is solar power that,power,power,that,that
+7,It is manual power that,power,power,that,that
+8,It is an air current that,current,current,that,that
+9,It is an air blast that,blast,blast,that,that
+10,It is a birth rash that,rash,rash,that,that
+11,It is an allergy rash that,rash,rash,that,that
+12,It is an arm rash that,rash,rash,that,that
+13,It is a birth cramp that,cramp,cramp,that,that
+14,It is a birth event that,event,event,that,that
+15,It is a cable brake that,brake,brake,that,that
+16,It is an electric brake that,brake,brake,that,that
+17,It is a bicycle brake that,brake,brake,that,that
+18,It is a cable pulley that,pulley,pulley,that,that
+19,It is a cable bobbin that,bobbin,bobbin,that,that
+20,It is a cactus bee that,bee,bee,that,that
+21,It is a picnic bee that,bee,bee,that,that
+22,It is a syrup bee that,bee,bee,that,that
+23,It is a cactus chipmunk that,chipmunk,chipmunk,that,that
+24,It is a cactus root that,root,root,that,that
+25,It is cane sugar that,sugar,sugar,that,that
+26,It is peach sugar that,sugar,sugar,that,that
+27,It is breakfast sugar that,sugar,sugar,that,that
+28,It is cane juice that,juice,juice,that,that
+29,It is a cane plantation that,plantation,plantation,that,that
+30,There are chocolate shavings that,shavings,shavings,that,that
+31,There are grass shavings that,shavings,shavings,that,that
+32,There are dried shavings that,shavings,shavings,that,that
+33,It is a chocolate power that,power,power,that,that
+34,It is a chocolate recipe that,recipe,recipe,that,that
+35,It is a coal town that,town,town,that,that
+36,It is a festival town that,town,town,that,that
+37,It is a valley town that,town,town,that,that
+38,It is a coal country that,country,country,that,that
+39,It is a coal machine that,machine,machine,that,that
+40,It is coffee tension that,tension,tension,that,that
+41,It is examination tension that,tension,tension,that,that
+42,It is muscle tension that,tension,tension,that,that
+43,It is a coffee stain that,stain,stain,that,that
+44,It is a coffee container that,container,container,that,that
+45,There are college lakes that,lakes,lakes,that,that
+46,There are farmer lakes that,lakes,lakes,that,that
+47,There are minnow lakes that,lakes,lakes,that,that
+48,It is a college property that,property,property,that,that
+49,It is a college publication that,publication,publication,that,that
+50,It is cream sauce that,sauce,sauce,that,that
+51,It is pumpkin sauce that,sauce,sauce,that,that
+52,It is potato sauce that,sauce,sauce,that,that
+53,It is a cream bread that,bread,bread,that,that
+54,It is a cream churn that,churn,churn,that,that
+55,It is a family cow that,cow,cow,that,that
+56,It is a school cow that,cow,cow,that,that
+57,It is a dairy cow that,cow,cow,that,that
+58,It is a family garden that,garden,garden,that,that
+59,It is a family church that,church,church,that,that
+60,It is a financial headache that,headache,headache,that,that
+61,It is an alcohol headache that,headache,headache,that,that
+62,It is a fatal headache that,headache,headache,that,that
+63,It is a financial problem that,problem,problem,that,that
+64,It is a financial remedy that,remedy,remedy,that,that
+65,It is a fish gland that,gland,gland,that,that
+66,It is a reptile gland that,gland,gland,that,that
+67,It is an underdeveloped gland that,gland,gland,that,that
+68,It is a fish fin that,fin,fin,that,that
+69,It is a fish stew that,stew,stew,that,that
+70,It is a floral wreath that,wreath,wreath,that,that
+71,It is a yarn wreath that,wreath,wreath,that,that
+72,It is a Christmas wreath that,wreath,wreath,that,that
+73,It is a floral perfume that,perfume,perfume,that,that
+74,It is a floral fabric that,fabric,fabric,that,that
+75,There are flu pills that,pills,pills,that,that
+76,There are infant pills that,pills,pills,that,that
+77,There are medicinal pills that,pills,pills,that,that
+78,It is flu therapy that,therapy,therapy,that,that
+79,It is a flu outbreak that,outbreak,outbreak,that,that
+80,It is fruit food that,food,food,that,that
+81,It is hot food that,food,food,that,that
+82,It is package food that,food,food,that,that
+83,It is a fruit slice that,slice,slice,that,that
+84,It is a fruit seed that,seed,seed,that,that
+85,It is a gas lamp that,lamp,lamp,that,that
+86,It is a battery lamp that,lamp,lamp,that,that
+87,It is a cabin lamp that,lamp,lamp,that,that
+88,It is a gas car that,car,car,that,that
+89,It is a gas hose that,hose,hose,that,that
+90,It is a grain law that,law,law,that,that
+91,It is a traffic law that,law,law,that,that
+92,It is a state law that,law,law,that,that
+93,It is a grain controversy that,controversy,controversy,that,that
+94,It is a grain dish that,dish,dish,that,that
+95,It is a gutter hole that,hole,hole,that,that
+96,It is a prairie hole that,hole,hole,that,that
+97,It is a rodent hole that,hole,hole,that,that
+98,It is a gutter rodent that,rodent,rodent,that,that
+99,It is gutter drainage that,drainage,drainage,that,that
+100,It is a heat iron that,iron,iron,that,that
+101,It is a pancake iron that,iron,iron,that,that
+102,It is a ceramic iron that,iron,iron,that,that
+103,It is a heat pad that,pad,pad,that,that
+104,It is a heat regulator that,regulator,regulator,that,that
+105,There are historical members that,members,members,that,that
+106,There are foreign members that,members,members,that,that
+107,There are hospital members that,members,members,that,that
+108,It is a historical elder that,elder,elder,that,that
+109,There are historical archives that,archives,archives,that,that
+110,It is a home light that,light,light,that,that
+111,It is a reading light that,light,light,that,that
+112,It is a glass light that,light,light,that,that
+113,It is home paint that,paint,paint,that,that
+114,It is a home dispute that,dispute,dispute,that,that
+115,It is honey soup that,soup,soup,that,that
+116,It is ham soup that,soup,soup,that,that
+117,It is holiday soup that,soup,soup,that,that
+118,It is a honey muffin that,muffin,muffin,that,that
+119,It is a honey insect that,insect,insect,that,that
+120,There are horse scales that,scales,scales,that,that
+121,There are chemistry scales that,scales,scales,that,that
+122,There are metal scales that,scales,scales,that,that
+123,There are horse stables that,stables,stables,that,that
+124,It is a horse auction that,auction,auction,that,that
+125,It is job language that,language,language,that,that
+126,It is California language that,language,language,that,that
+127,It is verbal language that,language,language,that,that
+128,It is a job completion that,completion,completion,that,that
+129,It is job anxiety that,anxiety,anxiety,that,that
+130,It is juvenile underwear that,underwear,underwear,that,that
+131,It is evening underwear that,underwear,underwear,that,that
+132,It is flannel underwear that,underwear,underwear,that,that
+133,It is a juvenile swing that,swing,swing,that,that
+134,It is juvenile behavior that,behavior,behavior,that,that
+135,It is a lemon plant that,plant,plant,that,that
+136,It is a pollen plant that,plant,plant,that,that
+137,It is a farm plant that,plant,plant,that,that
+138,It is a lemon tree that,tree,tree,that,that
+139,It is a lemon biscuit that,biscuit,biscuit,that,that
+140,It is a Marine antique that,antique,antique,that,that
+141,It is a library antique that,antique,antique,that,that
+142,It is a sewing antique that,antique,antique,that,that
+143,It is a Marine gun that,gun,gun,that,that
+144,It is a Marine attack that,attack,attack,that,that
+145,There are marital instincts that,instincts,instincts,that,that
+146,There are academic instincts that,instincts,instincts,that,that
+147,There are evolved instincts that,instincts,instincts,that,that
+148,It is marital preparation that,preparation,preparation,that,that
+149,It is marital happiness that,happiness,happiness,that,that
+150,It is a milk virus that,virus,virus,that,that
+151,It is a throat virus that,virus,virus,that,that
+152,It is a dormant virus that,virus,virus,that,that
+153,It is a milk bacterium that,bacterium,bacterium,that,that
+154,It is a milk pudding that,pudding,pudding,that,that
+155,There are morning signals that,signals,signals,that,that
+156,There are pregnancy signals that,signals,signals,that,that
+157,There are animal signals that,signals,signals,that,that
+158,It is morning medication that,medication,medication,that,that
+159,It is morning meditation that,meditation,meditation,that,that
+160,It is a moth shape that,shape,shape,that,that
+161,It is a mould shape that,shape,shape,that,that
+162,It is an oval shape that,shape,shape,that,that
+163,It is a moth wing that,wing,wing,that,that
+164,It is a moth insecticide that,insecticide,insecticide,that,that
+165,It is a mountain breeze that,breeze,breeze,that,that
+166,It is a kitchen breeze that,breeze,breeze,that,that
+167,It is a storm breeze that,breeze,breeze,that,that
+168,It is a mountain cabin that,cabin,cabin,that,that
+169,It is a mountain magazine that,magazine,magazine,that,that
+170,It is a municipal forest that,forest,forest,that,that
+171,It is a royalty forest that,forest,forest,that,that
+172,It is an alpine forest that,forest,forest,that,that
+173,It is a municipal pool that,pool,pool,that,that
+174,It is a municipal campaign that,campaign,campaign,that,that
+175,It is a murder film that,film,film,that,that
+176,It is a poverty film that,film,film,that,that
+177,It is a foreign film that,film,film,that,that
+178,It is a murder investigation that,investigation,investigation,that,that
+179,It is a murder attempt that,attempt,attempt,that,that
+180,There are national resources that,resources,resources,that,that
+181,There are company resources that,resources,resources,that,that
+182,There are gold resources that,resources,resources,that,that
+183,It is a national police that,police,police,that,that
+184,It is a national mistake that,mistake,mistake,that,that
+185,It is a nose sound that,sound,sound,that,that
+186,It is a drum sound that,sound,sound,that,that
+187,It is an unidentified sound that,sound,sound,that,that
+188,It is a nose itch that,itch,itch,that,that
+189,It is a nose movement that,movement,movement,that,that
+190,It is an office charge that,charge,charge,that,that
+191,It is a doctor charge that,charge,charge,that,that
+192,It is a royalty charge that,charge,charge,that,that
+193,It is an office statement that,statement,statement,that,that
+194,It is an office notepad that,notepad,notepad,that,that
+195,It is an oil treatment that,treatment,treatment,that,that
+196,It is a surgery treatment that,treatment,treatment,that,that
+197,It is a disease treatment that,treatment,treatment,that,that
+198,It is an oil moisturizer that,moisturizer,moisturizer,that,that
+199,It is an oil accident that,accident,accident,that,that
+200,It is an olive season that,season,season,that,that
+201,It is a gestation season that,season,season,that,that
+202,It is a humidity season that,season,season,that,that
+203,It is olive fertilizer that,fertilizer,fertilizer,that,that
+204,It is an olive paste that,paste,paste,that,that
+205,It is paper equipment that,equipment,equipment,that,that
+206,It is construction equipment that,equipment,equipment,that,that
+207,It is steel equipment that,equipment,equipment,that,that
+208,There are paper staples that,staples,staples,that,that
+209,It is a paper sculpture that,sculpture,sculpture,that,that
+210,It is a party dance that,dance,dance,that,that
+211,It is a hall dance that,dance,dance,that,that
+212,It is a peasant dance that,dance,dance,that,that
+213,It is a party toast that,toast,toast,that,that
+214,It is a party invitation that,invitation,invitation,that,that
+215,It is pine oil that,oil,oil,that,that
+216,It is pig oil that,oil,oil,that,that
+217,It is tanning oil that,oil,oil,that,that
+218,It is a pine bark that,bark,bark,that,that
+219,It is pine furniture that,furniture,furniture,that,that
+220,It is a plastic report that,report,report,that,that
+221,It is a war report that,report,report,that,that
+222,It is a company report that,report,report,that,that
+223,It is a plastic shortage that,shortage,shortage,that,that
+224,It is a plastic shortage that,shortage,shortage,that,that
+225,It is a servant comedy that,comedy,comedy,that,that
+226,It is an economic comedy that,comedy,comedy,that,that
+227,It is an amateur comedy that,comedy,comedy,that,that
+228,It is a servant scandal that,scandal,scandal,that,that
+229,It is a servant carriage that,carriage,carriage,that,that
+230,It is a song magazine that,magazine,magazine,that,that
+231,It is a sewing magazine that,magazine,magazine,that,that
+232,It is a locker magazine that,magazine,magazine,that,that
+233,It is a song review that,review,review,that,that
+234,It is a song recital that,recital,recital,that,that
+235,It is a sports pain that,pain,pain,that,that
+236,It is a needle pain that,pain,pain,that,that
+237,It is an ankle pain that,pain,pain,that,that
+238,It is sports excite ment that,excite ment,excite ment,that,that
+239,It is a sports program that,program,program,that,that
+240,It is a steam lock that,lock,lock,that,that
+241,It is a coil lock that,lock,lock,that,that
+242,It is an industrial lock that,lock,lock,that,that
+243,It is a steam turbine that,turbine,turbine,that,that
+244,It is a steam maker that,maker,maker,that,that
+245,It is a student vote that,vote,vote,that,that
+246,It is an employee vote that,vote,vote,that,that
+247,It is a reform vote that,vote,vote,that,that
+248,It is a student accusation that,accusation,accusation,that,that
+249,It is a student car that,car,car,that,that
+250,It is sugar alcohol that,alcohol,alcohol,that,that
+251,It is barley alcohol that,alcohol,alcohol,that,that
+252,It is cooking alcohol that,alcohol,alcohol,that,that
+253,It is sugar extract that,extract,extract,that,that
+254,It is sugar storage that,storage,storage,that,that
+255,It is summer money that,money,money,that,that
+256,It is phone money that,money,money,that,that
+257,It is casino money that,money,money,that,that
+258,There are summer clothes that,clothes,clothes,that,that
+259,It is summer employment that,employment,employment,that,that
+260,It is tax pressure that,pressure,pressure,that,that
+261,It is weight pressure that,pressure,pressure,that,that
+262,It is social pressure that,pressure,pressure,that,that
+263,It is tax wealth that,wealth,wealth,that,that
+264,It is a tax form that,form,form,that,that
+265,It is a thermal wheel that,wheel,wheel,that,that
+266,It is a hydrogen wheel that,wheel,wheel,that,that
+267,It is a tractor wheel that,wheel,wheel,that,that
+268,It is thermal torture that,torture,torture,that,that
+269,There are thermal socks that,socks,socks,that,that
+270,There are urban riots that,riots,riots,that,that
+271,It is a Europe dance that,dance,dance,that,that
+272,There are war riots that,riots,riots,that,that
+273,It is an urban tower that,tower,tower,that,that
+274,It is an urban complaint that,complaint,complaint,that,that
+275,There are vapor drops that,drops,drops,that,that
+276,There are rain drops that,drops,drops,that,that
+277,There are fallen drops that,drops,drops,that,that
+278,It is a vapor cloud that,cloud,cloud,that,that
+279,It is a vapor humidifier that,humidifier,humidifier,that,that
+280,It is a vegetable peel that,peel,peel,that,that
+281,It is a watermelon peel that,peel,peel,that,that
+282,It is a bitter peel that,peel,peel,that,that
+283,It is vegetable steam that,steam,steam,that,that
+284,It is a vegetable appetizer that,appetizer,appetizer,that,that
+285,It is a water bird that,bird,bird,that,that
+286,It is a desert bird that,bird,bird,that,that
+287,It is a domestic bird that,bird,bird,that,that
+288,It is a water algae that,algae,algae,that,that
+289,It is a water jar that,jar,jar,that,that
+290,It is a winter book that,book,book,that,that
+291,It is a romance book that,book,book,that,that
+292,It is a hard book that,book,book,that,that
+293,It is a winter show that,show,show,that,that
+294,It is a winter carnival that,carnival,carnival,that,that
+295,It is a wood stove that,stove,stove,that,that
+296,It is a propane stove that,stove,stove,that,that
+297,It is a bread stove that,stove,stove,that,that
+298,It is a wood freshener that,freshener,freshener,that,that
+299,It is a wood chisel that,chisel,chisel,that,that
+300,There are months during which adventures occur that,months,months,that,that
+301,There are months when someone is retired that,months,months,that,that
+302,There are months spent in jail that,months,months,that,that
+303,There are bookings made for an adventure that,bookings,bookings,that,that
+304,It is a commercial that shows an adventure that,commercial,commercial,that,that
+305,It is the power to attack from the air that,power,power,that,that
+306,It is power produced by the sun that,power,power,that,that
+307,It is power generated by hand that,power,power,that,that
+308,It is a current of air that,current,current,that,that
+309,It is a blast of air that,blast,blast,that,that
+310,It is a rash that is found on the body just after birth that,rash,rash,that,that
+311,It is a rash caused by an allergy that,rash,rash,that,that
+312,It is a rash on the arm that,rash,rash,that,that
+313,It is the cramps felt when giving birth that,cramp,cramps,that,that
+314,It is the event of a birth happening that,event,event,that,that
+315,It is a brake that has a cable as a part that,brake,brake,that,that
+316,It is a brake that works by electricity that,brake,brake,that,that
+317,It is the brake on a bicycle that,brake,brake,that,that
+318,It is a pulley that is used on a cable that,pulley,pulley,that,that
+319,It is a bobbin for winding cable on that,bobbin,bobbin,that,that
+320,It is a bee that gathers nectar from a cactus that,bee,bee,that,that
+321,It is a bee that attacks one at a picnic that,bee,bee,that,that
+322,It is a bee that produces syrup that,bee,bee,that,that
+323,It is a chipmunk that lives under cactus that,chipmunk,chipmunk,that,that
+324,It is the root of a cactus plant that,root,root,that,that
+325,It is a type of sugar produced from the cane plant that,sugar,sugar,that,that
+326,It is sugar extracted from a peach that,sugar,sugar,that,that
+327,It is sugar that is put on breakfast that,sugar,sugar,that,that
+328,It is juice from the cane plant that,juice,juice,that,that
+329,It is a plantation on which cane is grown that,plantation,plantation,that,that
+330,There are shavings from a block of chocolate that,shavings,shavings,that,that
+331,There are shavings or clippings of grass that,shavings,shavings,that,that
+332,There are shavings of wood that have been dried that,shavings,shavings,that,that
+333,It is power produced by eating chocolate that,power,power,that,that
+334,It is a recipe for making chocolate that,recipe,recipe,that,that
+335,It is a town where coal is the dominant industry that,town,town,that,that
+336,It is a town where a festival happens that,town,town,that,that
+337,It is a town in a valley that,town,town,that,that
+338,It is the country in which coal can be found that,country,country,that,that
+339,It is a machine that manufactures coal that,machine,machine,that,that
+340,It is tension caused by drinking coffee that,tension,tension,that,that
+341,It is tension caused by an upcoming examination that,tension,tension,that,that
+342,It is tension in a muscle that,tension,tension,that,that
+343,It is a stain made by spilled coffee that,stain,stain,that,that
+344,It is a container for holding coffee that,container,container,that,that
+345,There are lakes in the grounds of a college that,lakes,lakes,that,that
+346,There are lakes that look like farmers that,lakes,lakes,that,that
+347,There are lakes that are very small that,lakes,lakes,that,that
+348,It is property belonging to a college that,property,property,that,that
+349,It is a publication produced in a college that,publication,publication,that,that
+350,It is sauce that is made of cream that,sauce,sauce,that,that
+351,It is sauce which contains pumpkins that,sauce,sauce,that,that
+352,It is a sauce for putting on potatoes that,sauce,sauce,that,that
+353,It is a bread that is made from cream that,bread,bread,that,that
+354,It is a churn used for making cream that,churn,churn,that,that
+355,It is a cow owned by a family that,cow,cow,that,that
+356,It is a cow owned by a school that,cow,cow,that,that
+357,It is a cow that gives milk that,cow,cow,that,that
+358,It is a garden that a family uses that,garden,garden,that,that
+359,It is a church where a family usually goes that,church,church,that,that
+360,It is a headache caused by financial problems that,headache,headache,that,that
+361,It is a headache caused by the consumption of alcohol that,headache,headache,that,that
+362,It is a headache that causes death that,headache,headache,that,that
+363,It is a problem caused by a lack of finance that,problem,problem,that,that
+364,It is a remedy for financial problems that,remedy,remedy,that,that
+365,It is a gland that fish have that,gland,gland,that,that
+366,It is a gland taken from a reptile that,gland,gland,that,that
+367,It is a gland that is underdeveloped that,gland,gland,that,that
+368,It is a fin which is part of a fish that,fin,fin,that,that
+369,It is a stew with fish as an ingredient that,stew,stew,that,that
+370,It is a wreath made of flowers that,wreath,wreath,that,that
+371,It is a wreath made out of yarn that,wreath,wreath,that,that
+372,It is Christmas wreath that,wreath,wreath,that,that
+373,It is perfume that smells of flowers that,perfume,perfume,that,that
+374,It is a fabric that is decorated with flowers that,fabric,fabric,that,that
+375,There are pills that are intended to cure flu that,pills,pills,that,that
+376,There are pills that are used to treat infants that,pills,pills,that,that
+377,There are pills that are medicine that,pills,pills,that,that
+378,It is therapy used for treating flus that,therapy,therapy,that,that
+379,It is an outbreak of flu that,outbreak,outbreak,that,that
+380,It is food used to feed fruit plants that,food,food,that,that
+381,It is food that is hot that,food,food,that,that
+382,It is food that comes in packages that,food,food,that,that
+383,It is a slice of a fruit that,slice,slice,that,that
+384,It is the seed found inside a fruit that,seed,seed,that,that
+385,It is a lamp that is powered by gas that,lamp,lamp,that,that
+386,It is a lamp that runs on batteries that,lamp,lamp,that,that
+387,It is a lamp that is used in a cabin that,lamp,lamp,that,that
+388,It is a car that runs on gas that,car,car,that,that
+389,It is a hose down which gas flows that,hose,hose,that,that
+390,It is the law governing grain that,law,law,that,that
+391,It is the law which states how traffic should behave that,law,law,that,that
+392,It is a law that holds in a state that,law,law,that,that
+393,It is a controversy over the supply of grain that,controversy,controversy,that,that
+394,It is a dish used for holding grain that,dish,dish,that,that
+395,It is a hole in the gutter that,hole,hole,that,that
+396,It is a hole in the prairie that some animal lives in that,hole,hole,that,that
+397,It is a hole that a rodent lives in that,hole,hole,that,that
+398,It is a rodent that lives in the gutter that,rodent,rodent,that,that
+399,It is drainage into a gutter that,drainage,drainage,that,that
+400,It is an iron that is hot that,iron,iron,that,that
+401,It is an iron used to cook pancakes that,iron,iron,that,that
+402,It is an iron that is made of ceramic that,iron,iron,that,that
+403,It is a pad that produces heat that,pad,pad,that,that
+404,It is a machine that regulates heat that,regulator,regulates,that,that
+405,There are people who were members in historical times that,members,members,that,that
+406,There are members which are from a foreign place that,members,members,that,that
+407,There are members of a hospital governing board that,members,members,that,that
+408,It is an elder person in historical times that,elder,elder,that,that
+409,There are archives containing historical information that,archives,archives,that,that
+410,It is a light that is found in a home that,light,light,that,that
+411,It is a light that provides illumination for reading that,light,light,that,that
+412,It is a light that is made of glass that,light,light,that,that
+413,It is paint that is used on homes that,paint,paint,that,that
+414,It is a dispute about the home that,dispute,dispute,that,that
+415,It is soup with honey as an ingredient that,soup,soup,that,that
+416,It is soup made of ham that,soup,soup,that,that
+417,It is a soup that you only have on holidays that,soup,soup,that,that
+418,It is a muffin with honey as an ingredient that,muffin,muffin,that,that
+419,It is an insect that produces honey that,insect,insect,that,that
+420,There are scales used to weigh horses that,scales,scales,that,that
+421,There are a scales on which chemicals are weighed that,scales,scales,that,that
+422,There are scales made of metal that,scales,scales,that,that
+423,There are stables that a horse lives in that,stables,stables,that,that
+424,It is an auction where horses are sold that,auction,auction,that,that
+425,It is the language used to talk about jobs that,language,language,that,that
+426,It is the language that is spoken in California that,language,language,that,that
+427,It is language that is used verbally that,language,language,that,that
+428,It is the completion of a job that,completion,completion,that,that
+429,It is anxiety about losing a job that,anxiety,anxiety,that,that
+430,It is underwear that are worn by juvenile people that,underwear,underwear,that,that
+431,It is special underwear that are worn in the evening that,underwear,underwear,that,that
+432,It is underwear made of flannel that,underwear,underwear,that,that
+433,It is a swing that is reserved for juveniles that,swing,swing,that,that
+434,It is the bad behavior of juveniles that,behavior,behavior,that,that
+435,It is the plant on which lemons grow that,plant,plant,that,that
+436,It is a plant that produces a lot of pollen that,plant,plant,that,that
+437,It is a plant that grows on a farm that,plant,plant,that,that
+438,It is a tree on which lemons grow that,tree,tree,that,that
+439,It is a biscuit with lemons as an ingredient that,biscuit,biscuit,that,that
+440,It is an antique found in the sea that,antique,antique,that,that
+441,It is an antique that is found in a library that,antique,antique,that,that
+442,It is an antique which is a tool used for sewing that,antique,antique,that,that
+443,It is a gun that is used by marines that,gun,gun,that,that
+444,It is an attack carried out by marines that,attack,attack,that,that
+445,'There are a person''s instincts to get married.' that,instincts,instincts,that,that
+446,There are somebodies instincts for academic politics that,instincts,instincts,that,that
+447,There are instincts that have evolved in an animal that,instincts,instincts,that,that
+448,'It is a person''s preparation for getting married.' that,preparation,preparation,that,that
+449,It is happiness in marriage that,happiness,happiness,that,that
+450,It is a virus found in milk that,virus,virus,that,that
+451,It is a virus that affects the throat that,virus,virus,that,that
+452,It is a virus that is dormant that,virus,virus,that,that
+453,It is a bacterium that is found in milk that,bacterium,bacterium,that,that
+454,It is a pudding with milk as an ingredient that,pudding,pudding,that,that
+455,There are signals that morning is approaching that,signals,signals,that,that
+456,There are signals that someone is pregnant that,signals,signals,that,that
+457,There are signals that animals use that,signals,signals,that,that
+458,It is medication that must be taken in the morning that,medication,medication,that,that
+459,It is meditation that is done in the morning that,meditation,meditation,that,that
+460,It is the shape of a moth that,shape,shape,that,that
+461,It is the shape of a mould that,shape,shape,that,that
+462,It is the shape oval that,shape,shape,that,that
+463,It is the wing of a moth that,wing,wing,that,that
+464,It is an insecticide used for killing moths that,insecticide,insecticide,that,that
+465,It is a cool breeze that blows in the mountains that,breeze,breeze,that,that
+466,It is a breeze that goes through a kitchen that,breeze,breeze,that,that
+467,It is a breeze that blows before a storm that,breeze,breeze,that,that
+468,It is a cabin on the side of a mountain that,cabin,cabin,that,that
+469,It is a magazine about mountains that,magazine,magazine,that,that
+470,It is a forest that is maintained by the municipality that,forest,forest,that,that
+471,It is a forest that is owned by royalty that,forest,forest,that,that
+472,It is a forest in the alps that,forest,forest,that,that
+473,It is a pool maintained by the municipality that,pool,pool,that,that
+474,It is a political campaign for municipal elections that,campaign,campaign,that,that
+475,It is a film about murder that,film,film,that,that
+476,It is a film about people who live in poverty that,film,film,that,that
+477,It is a film made in a foreign country that,film,film,that,that
+478,It is an investigation into the circumstances of a murder that,investigation,investigation,that,that
+479,It is an attempt to murder someone that,attempt,attempt,that,that
+480,There are the resources of a nation that,resources,resources,that,that
+481,There are the resources that a company possesses that,resources,resources,that,that
+482,There are resources of gold that,resources,resources,that,that
+483,It is the police of a nation that,police,police,that,that
+484,It is a mistake made by a nation that,mistake,mistake,that,that
+485,It is a sound made by blowing the nose that,sound,sound,that,that
+486,It is the sound a drum makes that,sound,sound,that,that
+487,It is a sound that is unidentified that,sound,sound,that,that
+488,It is an itch on the nose that,itch,itch,that,that
+489,It is a movement that the nose performs that,movement,movement,that,that
+490,It is a charge for the maintenance or use of an office that,charge,charge,that,that
+491,It is the charge required to attend a doctor that,charge,charge,that,that
+492,It is the charge  paid on items for which royalties are required that,charge,charge,that,that
+493,It is a statement produced by an office that,statement,statement,that,that
+494,It is a notepad that is used in an office that,notepad,notepad,that,that
+495,It is a treatment in which oil is rubbed on that,treatment,treatment,that,that
+496,It is a treatment that is carried out before surgery that,treatment,treatment,that,that
+497,It is the medical treatment for a disease that,treatment,treatment,that,that
+498,It is a moisturizer that is based on oil that,moisturizer,moisturizer,that,that
+499,It is an accident in which oil is spilled that,accident,accident,that,that
+500,It is the season in which olives grow that,season,season,that,that
+501,It is the season in which gestation happens that,season,season,that,that
+502,It is the season in which it is humid that,season,season,that,that
+503,It is olives spread on the ground as fertilizer that,fertilizer,fertilizer,that,that
+504,It is a paste made by crushing olives that,paste,paste,that,that
+505,It is equipment used with paper that,equipment,equipment,that,that
+506,It is equipment used during construction that,equipment,equipment,that,that
+507,It is equipment that is made of steel that,equipment,equipment,that,that
+508,There are staples used to join paper together that,staples,staples,that,that
+509,It is a sculpture made by folding paper that,sculpture,sculpture,that,that
+510,It is a dance that is performed at a party that,dance,dance,that,that
+511,It is a dance that is held in a hall that,dance,dance,that,that
+512,It is a dance that peasants typically do that,dance,dance,that,that
+513,It is a toast that is given at a party that,toast,toast,that,that
+514,It is an invitation to come to a party that,invitation,invitation,that,that
+515,It is oil extracted from the pine tree that,oil,oil,that,that
+516,It is oil extracted from the skin of pigs that,oil,oil,that,that
+517,It is oil that is used for tanning that,oil,oil,that,that
+518,It is the bark of the pine tree that,bark,bark,that,that
+519,It is furniture that is made of pine that,furniture,furniture,that,that
+520,It is a report about plastic that,report,report,that,that
+521,It is a report on the events of a war that,report,report,that,that
+522,It is the annual report of a company that,report,report,that,that
+523,It is a shortage of plastic that,shortage,shortage,that,that
+524,It is a shortage of plastic that,shortage,shortage,that,that
+525,It is a comedy about the activity of servants that,comedy,comedy,that,that
+526,It is a comedy about economics that,comedy,comedy,that,that
+527,It is a comedy performed by amateurs that,comedy,comedy,that,that
+528,It is a scandal in which servants are involved that,scandal,scandal,that,that
+529,It is a carriage in which servants travel that,carriage,carriage,that,that
+530,It is a magazine that gives lists of songs that,magazine,magazine,that,that
+531,It is a magazine with articles about sewing that,magazine,magazine,that,that
+532,It is a magazine kept in a locker that,magazine,magazine,that,that
+533,It is a review describing a song that,review,review,that,that
+534,It is a recital at which songs are performed that,recital,recital,that,that
+535,It is a pain that is caused by injury during sports that,pain,pain,that,that
+536,It is pain caused by getting stuck with a needle that,pain,pain,that,that
+537,It is a pain in the ankle that,pain,pain,that,that
+538,It is excite ment about sports that,excite ment,excite ment,that,that
+539,It is a program about sports that,program,program,that,that
+540,It is a lock that works by steam that,lock,lock,that,that
+541,It is a lock that is in the shape of a coil that,lock,lock,that,that
+542,It is a lock that is very strong that,lock,lock,that,that
+543,It is a turbine which is turned by steam that,turbine,turbine,that,that
+544,It is a machine that makes steam that,maker,makes,that,that
+545,It is the vote of a group of students that,vote,vote,that,that
+546,It is the vote of employees in a company decision that,vote,vote,that,that
+547,It is a vote to reform something that,vote,vote,that,that
+548,It is an accusation said by a student that,accusation,accusation,that,that
+549,It is a car that a student owns that,car,car,that,that
+550,It is alcohol that is distilled from sugar that,alcohol,alcohol,that,that
+551,It is alcohol that is brewed from barley that,alcohol,alcohol,that,that
+552,It is alcohol used as an ingredient in cooking that,alcohol,alcohol,that,that
+553,It is a sugary substance that is extracted from a plant that,extract,extracted,that,that
+554,It is the storage of sugar that,storage,storage,that,that
+555,It is money that is spent during summer that,money,money,that,that
+556,It is money used when phoning that,money,money,that,that
+557,It is money that can be used only in a casino that,money,money,that,that
+558,There are clothes worn during summer that,clothes,clothes,that,that
+559,It is employment over the summer period that,employment,employment,that,that
+560,It is the pressure caused by paying tax that,pressure,pressure,that,that
+561,It is pressure to maintain a certain weight that,pressure,pressure,that,that
+562,It is pressure from society to behave a certain way that,pressure,pressure,that,that
+563,It is wealth that comes from tax that,wealth,wealth,that,that
+564,It is a form that must be filled in for tax that,form,form,that,that
+565,It is a wheel that turns by thermal power that,wheel,wheel,that,that
+566,It is a wheel that turns because of hydrogen flow that,wheel,wheel,that,that
+567,It is the wheel of a tractor that,wheel,wheel,that,that
+568,It is torture by heat that,torture,torture,that,that
+569,There are socks that keep you warm that,socks,socks,that,that
+570,There are riots carried out by city people that,riots,riots,that,that
+571,It is a dance that is typical in Europe that,dance,dance,that,that
+572,There are riots in protest against a war that,riots,riots,that,that
+573,It is a tower in a city that,tower,tower,that,that
+574,It is a complaint about living in cities that,complaint,complaint,that,that
+575,There are drops that when swallowed produce a vapor that,drops,drops,that,that
+576,There are drops of rain that,drops,drops,that,that
+577,There are drops that have fallen that,drops,drops,that,that
+578,It is a cloud of vapor that,cloud,cloud,that,that
+579,It is a humidifier that produces a vapor that,humidifier,humidifier,that,that
+580,It is the peel of a vegetable that,peel,peel,that,that
+581,It is the peel of a watermelon that,peel,peel,that,that
+582,It is peel which has a bitter taste that,peel,peel,that,that
+583,It is steam produced when cooking vegetables that,steam,steam,that,that
+584,It is an appetizer that is prepared from vegetables that,appetizer,appetizer,that,that
+585,It is a bird that lives around water that,bird,bird,that,that
+586,It is a bird that lives in the desert that,bird,bird,that,that
+587,It is a bird that is kept in the house that,bird,bird,that,that
+588,It is algae that grow in water that,algae,algae,that,that
+589,It is a jar is which water is stored that,jar,jar,that,that
+590,It is a book about things that happen in winter that,book,book,that,that
+591,It is a book about romance that,book,book,that,that
+592,It is a book that is hard to understand that,book,book,that,that
+593,It is a show that takes place in winter that,show,show,that,that
+594,It is a carnival that is held in winter that,carnival,carnival,that,that
+595,It is a stove which burns wood that,stove,stove,that,that
+596,It is a stove that uses propane as fuel that,stove,stove,that,that
+597,It is a stove on which bread is cooked that,stove,stove,that,that
+598,It is something used to make wood seem fresh that,freshener,fresh,that,that
+599,It is a chisel used for working on wood that,chisel,chisel,that,that
+600,There are months when one goes on an adventure that,months,months,that,that
+601,There are months one spends in retirement that,months,months,that,that
+602,There are months one spends in jail that,months,months,that,that
+603,There are bookings taken during the arrangement of an adventure that,bookings,bookings,that,that
+604,It is a commercial about an adventure that,commercial,commercial,that,that
+605,It is military power in the air that,power,power,that,that
+606,It is power that comes from solar energy that,power,power,that,that
+607,It is power produced by manual labor that,power,power,that,that
+608,It is a current in air that,current,current,that,that
+609,It is a blast of air that,blast,blast,that,that
+610,It is a rash on a baby at birth that,rash,rash,that,that
+611,It is a rash caused by an allergy that,rash,rash,that,that
+612,It is a rash on an arm that,rash,rash,that,that
+613,It is a cramp caused by giving birth that,cramp,cramp,that,that
+614,It is an event at which someone or something gives birth that,event,event,that,that
+615,It is a brake that works by means of a cable that,brake,brake,that,that
+616,It isa brake that is powered by electricity that,brake,brake,that,that
+617,It is a brake that is on a bicycle that,brake,brake,that,that
+618,It is a pulley that functions by means of a cable that,pulley,pulley,that,that
+619,It is a bobbin on which cable is wound that,bobbin,bobbin,that,that
+620,It is a bee that lives in a cactus that,bee,bee,that,that
+621,It is a bee that comes to a picnic that,bee,bee,that,that
+622,It is a bee that likes to eat syrup that,bee,bee,that,that
+623,It is a chipmunk that feeds on a cactus that,chipmunk,chipmunk,that,that
+624,It is the root of a cactus that,root,root,that,that
+625,It is sugar that comes from cane that,sugar,sugar,that,that
+626,It is the sugar that is in a peach that,sugar,sugar,that,that
+627,It is sugar one uses at breakfast that,sugar,sugar,that,that
+628,It is the juice of canes that,juice,juice,that,that
+629,It is a plantation of cane plants that,plantation,plantation,that,that
+630,There are shavings which are made of chocolate that,shavings,shavings,that,that
+631,There are shavings consisting of grass that,shavings,shavings,that,that
+632,There are shavings that have been dried that,shavings,shavings,that,that
+633,It is power one gets from consuming chocolate that,power,power,that,that
+634,It is a recipe for making chocolate that,recipe,recipe,that,that
+635,It is a town in which the primary industry is coal mining that,town,town,that,that
+636,It is a town in which a festival takes place that,town,town,that,that
+637,It is a town located in a valley that,town,town,that,that
+638,It is a country that produces coal that,country,country,that,that
+639,It is a machine used in the mining of coal that,machine,machine,that,that
+640,It is tension caused by consuming coffee that,tension,tension,that,that
+641,It is tension caused by the thought of an examination that,tension,tension,that,that
+642,It is tension in a muscle that,tension,tension,that,that
+643,It is a stain caused by the spilling of coffee that,stain,stain,that,that
+644,It is a container in which coffee is stored that,container,container,that,that
+645,There are lakes found on college property that,lakes,lakes,that,that
+646,There are lakes frequented by farmers that,lakes,lakes,that,that
+647,There are lakes containing minnow that,lakes,lakes,that,that
+648,It is property owned by a college that,property,property,that,that
+649,It is a publication that is produced in a college that,publication,publication,that,that
+650,It is a sauce which contains a lot of cream that,sauce,sauce,that,that
+651,It is a sauce made out of pumpkins that,sauce,sauce,that,that
+652,It is a sauce used on potatoes that,sauce,sauce,that,that
+653,It is bread that was made with cream that,bread,bread,that,that
+654,It is a churn for producing cream that,churn,churn,that,that
+655,It is a cow owned by a family that,cow,cow,that,that
+656,It is a cow that lives at a school that,cow,cow,that,that
+657,It is a cow that produces milk that,cow,cow,that,that
+658,It is a garden owned by a family that,garden,garden,that,that
+659,It is a church frequented by members of a family that,church,church,that,that
+660,It is a headache caused by financial problems that,headache,headache,that,that
+661,It is a headache caused by drinking alcohol that,headache,headache,that,that
+662,It is a headache which is fatal that,headache,headache,that,that
+663,'It is a problem with the state of one''s finances.' that,problem,problem,that,that
+664,It is a remedy which improves ones finances that,remedy,remedy,that,that
+665,It is a gland that a fish has that,gland,gland,that,that
+666,It is a gland that is part of a reptile that,gland,gland,that,that
+667,It is a gland that is underdeveloped that,gland,gland,that,that
+668,It is the fin of a fish that,fin,fin,that,that
+669,It is a stew which contains fish that,stew,stew,that,that
+670,It is a wreath that is made of flowers that,wreath,wreath,that,that
+671,It is a wreath made out of yarn that,wreath,wreath,that,that
+672,It is a wreath one displays at Christmas that,wreath,wreath,that,that
+673,It is perfume which has a floral scent that,perfume,perfume,that,that
+674,It is fabric which has a floral pattern on it that,fabric,fabric,that,that
+675,There are pills for curing flu that,pills,pills,that,that
+676,There are pills for consumption by an infant that,pills,pills,that,that
+677,There are pills that are medicinal that,pills,pills,that,that
+678,It is therapy aimed at curing flu that,therapy,therapy,that,that
+679,It is an outbreak of flu in the population that,outbreak,outbreak,that,that
+680,It is food that is fruit that,food,food,that,that
+681,It is food which is hot that,food,food,that,that
+682,It is food that is found in a package that,food,food,that,that
+683,It is a slice of fruit that,slice,slice,that,that
+684,It is seed found inside fruit that,seed,seed,that,that
+685,It is a lamp that uses gas as fuel that,lamp,lamp,that,that
+686,It is a lamp that is powered by a battery that,lamp,lamp,that,that
+687,It is a lamp found in a cabin that,lamp,lamp,that,that
+688,It is a car that is powered by gas that,car,car,that,that
+689,It is a hose that gas comes out of that,hose,hose,that,that
+690,It is a law about grain that,law,law,that,that
+691,It is a law governing the conduct of traffic that,law,law,that,that
+692,It is a law made by and enforced in a state that,law,law,that,that
+693,It is a controversy about the supply or trade of grain that,controversy,controversy,that,that
+694,It is a dish for holding grain that,dish,dish,that,that
+695,It is a hole in a gutter that,hole,hole,that,that
+696,It is a hole in a prairie that,hole,hole,that,that
+697,It is a hole that a rodent lives in that,hole,hole,that,that
+698,It is a rodent that lives in the gutter that,rodent,rodent,that,that
+699,It is drainage into a gutter that,drainage,drainage,that,that
+700,It is an iron that uses heat to preform its function that,iron,iron,that,that
+701,It is an iron used for making a pancake that,iron,iron,that,that
+702,It is a type of iron that can be used or crafted like ceramics are that,iron,iron,that,that
+703,It is a pad that gives off heat that,pad,pad,that,that
+704,It is a device or machine for regulating the amount of heat that,regulator,regulating,that,that
+705,There are people that are members for historical reasons that,members,members,that,that
+706,There are members that are foreign that,members,members,that,that
+707,There are members of a hospital that,members,members,that,that
+708,It is an elder important enough to be the subject of history that,elder,elder,that,that
+709,There are archives concerning historical events that,archives,archives,that,that
+710,It is a light in a home that,light,light,that,that
+711,It is a light used for reading that,light,light,that,that
+712,It is a light that is made of glass that,light,light,that,that
+713,It is paint used in the home that,paint,paint,that,that
+714,It is a dispute at home that,dispute,dispute,that,that
+715,It is soup containing honey that,soup,soup,that,that
+716,It is soup that contains pieces of ham that,soup,soup,that,that
+717,It is soup brought on holiday that,soup,soup,that,that
+718,It is a muffin that contains honey that,muffin,muffin,that,that
+719,It is an insect that produces honey that,insect,insect,that,that
+720,There are scales for weighing a horse that,scales,scales,that,that
+721,There are scales used in chemistry experiments that,scales,scales,that,that
+722,There are scales made of metal that,scales,scales,that,that
+723,There are stables in which horses are kept that,stables,stables,that,that
+724,It is an auction where a horse is sold that,auction,auction,that,that
+725,'It is language that one uses in one''s job.' that,language,language,that,that
+726,It is the language spoken in California that,language,language,that,that
+727,It is language which is verbal that,language,language,that,that
+728,It is the completion of a job that,completion,completion,that,that
+729,'It is anxiety caused by one''s job.' that,anxiety,anxiety,that,that
+730,It is underwear that is worn by a juvenile that,underwear,underwear,that,that
+731,It is underwear that is only worn in the evening that,underwear,underwear,that,that
+732,It is underwear made of flannel that,underwear,underwear,that,that
+733,It is a swing that is used by a juvenile that,swing,swing,that,that
+734,It is behavior reminiscent of juvenile behavior that,behavior,behavior,that,that
+735,It is a plant that produces lemons that,plant,plant,that,that
+736,It is a plant that uses pollen to achieve fertilization that,plant,plant,that,that
+737,It is a plant that is grown on a farm that,plant,plant,that,that
+738,It is a tree on which lemons grow that,tree,tree,that,that
+739,It is a biscuit that is lemon flavoured that,biscuit,biscuit,that,that
+740,It is an antique which was once the property of a Marine that,antique,antique,that,that
+741,It is an antique found in a library that,antique,antique,that,that
+742,It is an antique which is an old sewing machine that,antique,antique,that,that
+743,It is a gun used by Marines that,gun,gun,that,that
+744,It is an attack carried out by Marines that,attack,attack,that,that
+745,There are the instincts to get married that,instincts,instincts,that,that
+746,There are instincts useful in an academic environment that,instincts,instincts,that,that
+747,There are instincts which have evolved that,instincts,instincts,that,that
+748,It is preparation for marriage that,preparation,preparation,that,that
+749,It is happiness caused by marriage that,happiness,happiness,that,that
+750,It is a virus transmitted in milk that,virus,virus,that,that
+751,'It is a virus which causes a pain in one''s throat.' that,virus,virus,that,that
+752,It is a virus which is dormant that,virus,virus,that,that
+753,It is a bacterium found in milk that,bacterium,bacterium,that,that
+754,It is pudding that contains milk that,pudding,pudding,that,that
+755,There are signals which happen in the morning that,signals,signals,that,that
+756,There are signals that indicate that someone or something is pregnant that,signals,signals,that,that
+757,There are signals made by an animal that,signals,signals,that,that
+758,It is medication that is to be taken in the morning that,medication,medication,that,that
+759,It is meditation that one does in the morning that,meditation,meditation,that,that
+760,It is the shape of a moth that,shape,shape,that,that
+761,It is the shape of a mould that,shape,shape,that,that
+762,It is a shape that is oval that,shape,shape,that,that
+763,It is the wing of a moth that,wing,wing,that,that
+764,It is insecticide for killing moths that,insecticide,insecticide,that,that
+765,It is a breeze on a mountain that,breeze,breeze,that,that
+766,It is a breeze in a kitchen that,breeze,breeze,that,that
+767,It is a strong breeze during a storm that,breeze,breeze,that,that
+768,It is a cabin located on a mountain that,cabin,cabin,that,that
+769,It is a magazine about mountains that,magazine,magazine,that,that
+770,It is a forest owned by the municipality that,forest,forest,that,that
+771,It is a forest that is owned by royalty that,forest,forest,that,that
+772,It is a forest in an alpine region that,forest,forest,that,that
+773,It is a pool that is owned by the municipality that,pool,pool,that,that
+774,It is a campaign by the municipality that,campaign,campaign,that,that
+775,It is a film which portrays a murder taking place that,film,film,that,that
+776,It is a film about poverty that,film,film,that,that
+777,It is a film made in a foreign place that,film,film,that,that
+778,It is an investigation into the details of a murder that,investigation,investigation,that,that
+779,It is an attempt made to murder someone that,attempt,attempt,that,that
+780,There are the resources of a nation that,resources,resources,that,that
+781,There are resources available to a company that,resources,resources,that,that
+782,There are resources that are gold that,resources,resources,that,that
+783,It is the police of a nation that,police,police,that,that
+784,It is a mistake made by a nation that,mistake,mistake,that,that
+785,It is a sound that a nose makes that,sound,sound,that,that
+786,It is the sound made by a drum that,sound,sound,that,that
+787,It is a sound that is unidentified that,sound,sound,that,that
+788,'It is an itch on one''s nose.' that,itch,itch,that,that
+789,It is a movement of a nose that,movement,movement,that,that
+790,It is a charge for using an office that,charge,charge,that,that
+791,It is a charge for the services of a doctor that,charge,charge,that,that
+792,'It is a charge that is an artist''s royalty.' that,charge,charge,that,that
+793,It is a statement given in an office that,statement,statement,that,that
+794,It is a notepad intended for use in an office that,notepad,notepad,that,that
+795,It is a skin treatment that uses oil that,treatment,treatment,that,that
+796,It is a treatment which consists of surgery.  that,treatment,treatment,that,that
+797,It is treatment aimed at preventing or ending a disease that,treatment,treatment,that,that
+798,It is moisturizer which contains oil that,moisturizer,moisturizer,that,that
+799,It is an accident in which oil is leaked that,accident,accident,that,that
+800,It is the season when olives are harvested that,season,season,that,that
+801,It is a season in which something gestates that,season,season,that,that
+802,It is a season in which the weather is very humid that,season,season,that,that
+803,It is fertilizer that helps olives to grow that,fertilizer,fertilizer,that,that
+804,It is paste made out of olives that,paste,paste,that,that
+805,It is equipment used for organising and augmenting paper that,equipment,equipment,that,that
+806,It is equipment used in the construction of something that,equipment,equipment,that,that
+807,It is equipment that is made of steel that,equipment,equipment,that,that
+808,There are staples used for binding papers together that,staples,staples,that,that
+809,It is a sculpture made out of paper that,sculpture,sculpture,that,that
+810,It is an event which is both a party and a dance that,dance,dance,that,that
+811,It is a dance that takes place in a hall that,dance,dance,that,that
+812,It is a dance which is attended by peasants that,dance,dance,that,that
+813,It is a toast at a party that,toast,toast,that,that
+814,It is an invitation to a party that,invitation,invitation,that,that
+815,It is oil that comes from a pine tree that,oil,oil,that,that
+816,It is oil that is put on a pig that,oil,oil,that,that
+817,It is oil used to aid tanning that,oil,oil,that,that
+818,It is the bark of a pine tree that,bark,bark,that,that
+819,It is furniture that is made mostly of pine that,furniture,furniture,that,that
+820,It is a report about the plastic industry that,report,report,that,that
+821,It is a report about a war that,report,report,that,that
+822,It is a report made by a company that,report,report,that,that
+823,It is a shortage of plastic that,shortage,shortage,that,that
+824,It is a shortage of plastic that,shortage,shortage,that,that
+825,It is a comedy about servants that,comedy,comedy,that,that
+826,It is a comedy about economic conditions that,comedy,comedy,that,that
+827,It is a comedy performed by amateurs that,comedy,comedy,that,that
+828,It is a scandal caused by the behavior of a servant that,scandal,scandal,that,that
+829,It is a carriage in which a servant travels that,carriage,carriage,that,that
+830,It is a magazine about songs that,magazine,magazine,that,that
+831,It is a magazine about sewing that,magazine,magazine,that,that
+832,It is a magazine that is in a locker that,magazine,magazine,that,that
+833,It is a review about a song that,review,review,that,that
+834,It is a recital where songs are performed that,recital,recital,that,that
+835,It is a pain caused by participating in sports that,pain,pain,that,that
+836,It is a pain caused by being pricked by a needle that,pain,pain,that,that
+837,It is a pain in an ankle that,pain,pain,that,that
+838,It is excite ment caused by a sports event that,excite ment,excite ment,that,that
+839,It is a program for a sports event that,program,program,that,that
+840,It is a lock which presents steam from escaping that,lock,lock,that,that
+841,It is a lock that works by means of a coil mechanism that,lock,lock,that,that
+842,It is a lock used in industry that,lock,lock,that,that
+843,It is a turbine that uses steam for power that,turbine,turbine,that,that
+844,It is a device that is a maker of steam that,maker,maker,that,that
+845,It is a vote cast by a student that,vote,vote,that,that
+846,It is a vote made by an employee that,vote,vote,that,that
+847,It is a vote that if successful will reform something that,vote,vote,that,that
+848,It is an accusation made by a student that,accusation,accusation,that,that
+849,It is a car owned by a student that,car,car,that,that
+850,It is alcohol that is made from sugar by yeast that,alcohol,alcohol,that,that
+851,It is alcohol that is produced by fermenting barley that,alcohol,alcohol,that,that
+852,It is alcohol used for cooking that,alcohol,alcohol,that,that
+853,It is extract which is sugar that,extract,extract,that,that
+854,It is a place where sugar is stored that,storage,stored,that,that
+855,It is money that is gotten in summer that,money,money,that,that
+856,It is money that is to be spent on the use of phones that,money,money,that,that
+857,It is money one spends in a casino that,money,money,that,that
+858,There are clothes worn during the summer that,clothes,clothes,that,that
+859,It is employment during the summer that,employment,employment,that,that
+860,It is pressure caused by a high level of tax that,pressure,pressure,that,that
+861,It is pressure exerted by the weight of something that,pressure,pressure,that,that
+862,It is pressure caused by society that,pressure,pressure,that,that
+863,It is wealth achieved by a high rate of tax that,wealth,wealth,that,that
+864,'It is a form for the arrangement of one''s tax payments.' that,form,form,that,that
+865,It is a wheel that uses thermal energy that,wheel,wheel,that,that
+866,It is a wheel powered by hydrogen energy that,wheel,wheel,that,that
+867,It is a wheel that is on a tractor that,wheel,wheel,that,that
+868,It is torture consisting of exposure to extreme heat that,torture,torture,that,that
+869,'There are socks which help to keep one''s feet warm.' that,socks,socks,that,that
+870,There are riots in an urban area that,riots,riots,that,that
+871,It is a dance that is popular in Europe that,dance,dance,that,that
+872,There are riots against the possibility of war that,riots,riots,that,that
+873,It is a tower in an urban area that,tower,tower,that,that
+874,It is a complaint about an urban service that,complaint,complaint,that,that
+875,There are drops of vapor that,drops,drops,that,that
+876,There are drops of water that rain consists of that,drops,drops,that,that
+877,There are drops which have fallen that,drops,drops,that,that
+878,It is a cloud made of vapor that,cloud,cloud,that,that
+879,It is a device which makes vapor more humid that,humidifier,humid,that,that
+880,It is the peel of a vegetable that,peel,peel,that,that
+881,It is the peel of a watermelon that,peel,peel,that,that
+882,It is a peel that is bitter that,peel,peel,that,that
+883,It is steam emitted by cooked vegetable that,steam,steam,that,that
+884,It is an appetizer consisting of a selection of vegetables that,appetizer,appetizer,that,that
+885,It is a bird that lives near water that,bird,bird,that,that
+886,It is a bird that lives in a desert that,bird,bird,that,that
+887,It is a bird that is domestic that,bird,bird,that,that
+888,It is algae that lives in water that,algae,algae,that,that
+889,It is a jar containing or intended to contain water that,jar,jar,that,that
+890,It is a book about winter that,book,book,that,that
+891,It is a book about romance that,book,book,that,that
+892,It is a book with a hard cover that,book,book,that,that
+893,It is a show presented during the winter that,show,show,that,that
+894,It is a carnival that takes place in winter that,carnival,carnival,that,that
+895,It is a stove that uses wood as fuel that,stove,stove,that,that
+896,It is a stove that uses propane that,stove,stove,that,that
+897,It is a stove used for making bread that,stove,stove,that,that
+898,It is a freshener for wood that,freshener,freshener,that,that
+899,It is a chisel used when crafting things made of wood that,chisel,chisel,that,that
